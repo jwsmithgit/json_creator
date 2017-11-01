@@ -1,0 +1,32 @@
+-JSON SAMPLE
+
+[
+	{
+		"name":"class",
+		"skills": [
+			"heal",
+			"strike"
+		],
+		"attack":3
+	},
+	{	
+		"name":"paladin",
+		"skills": [
+			"heal",
+			"strike"
+		],
+		"attack":3
+	},
+	{	
+		"name":"knight",
+		"skills": [
+			"hurt",
+			"strike"
+		],
+		"attack":3
+	}
+]
+
+in list get value
+in dict get name
+in dict and name get value

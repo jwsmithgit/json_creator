@@ -1,0 +1,43 @@
+TODO
+
+Feature List
+
+---WELCOME TO JSON CREATOR---
+1: Auto.
+
+2: Add Entities.
+	Grab/Create Core.
+3: Update Entities.
+	Checks for blank entries in maps
+4: Remove Entities.
+	Give Name/Value, Delete all with that entry
+
+5: Create Core Entity.
+	Replaces existing core
+6: Modify Core Entity.
+	Add/Delete/Change Names of values in core entity, pdates all entities
+7: Update Entities.
+	Scans and prompts user to fill missing data. Either empty string,{},[], int? or added new values to core.
+
+
+---WELCOME TO JSON CREATOR---
+
+1: Auto.
+2: View.
+
+3: Create Core Entity.
+4: Add To Core Entity.
+5: Remove From Core Entity.
+
+6: Add Entities.
+7: Remove Entities.
+8: Update Entities.
+
+9: Help.
+0: Exit.
+
+1
+
+--AUTO--
+-CREATE CORE ENTITY-
+Enter Name.

@@ -1,0 +1,39 @@
+  id:0
+  class:string
+  stats:[ {'name':string, 'start':int, 'lvlup_chance':float } ]
+  skills:[ { 'name':string, 'target':'single' } ]
+
+
+  id:1
+  class:knight
+  stats:[
+    {
+      'name':'attack',
+      'start':8,
+      'lvlup_chance':0.75
+    },
+    {
+      'name':'speed',
+      'start':8,
+      'lvlup_chance':0.75
+    },
+    {
+      'name':'defence',
+      'start':8,
+      'lvlup_chance':0.75
+    }
+  ]
+  skills:[
+    { 'name':'strike', 'target':'single' }
+  ]
+
+dict enforces types
+list enforces multiple
+
+value type input
+
+[] {}, []{} - list of maps
+define maps like core
+
+[] -> type define, []type, [type], {} -> define name -> define type , {}type -> define names, {type} -> define names
+stores as [type], [{name:type}], [{all:type}]
